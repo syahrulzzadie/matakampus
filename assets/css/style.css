@@ -1,0 +1,19 @@
+body{background:none}
+#bg{padding-top:40px}
+#bg{background-image:url('../img/bg.png')}
+#bg{background-size:100% 100%}
+
+.panel-grey{background:rgba(0,0,0,.75);border:1px solid #111}
+.panel-grey .panel-heading{background-color:#101010;border-bottom:1px solid #111}
+.panel-grey h3.panel-title{color:#777;font-size:1.2em}
+.panel-grey .list-group-item{background:rgba(0,0,0,.75);border:1px solid #333}
+
+.btn-cari{height:46px}
+.jumbotron#admin {
+	position: relative;
+    background: url(../img/jumbotron-admin.png) center center;
+    color:#fff;
+	min-height:90%;
+    background-size: cover;
+	overflow: hidden;
+}
